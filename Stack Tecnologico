@@ -1,0 +1,22 @@
+Para el stack tecnológico se definieron las siguientes herramientas:
+
+1. Hardware
+
+Sensores: de medición de temperatura, flujo, presión y potencia.
+OPC: Se almacenan variables industriales
+Envío de datos por MQTT
+
+2. Almacenamiento de datos
+
+Base de datos SQL: Fuente de datos origen
+Base de datos SQL local: Para la fuente de datos destino con los datos tratados postgresql
+
+3.Lenguaje de programación
+
+Para el tratamiento de datos Python – colab
+
+4. Visualizador
+
+Para la visualización de los datos Loker – power BI – streamlit - Dash
+
+
